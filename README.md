@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/sairamtn1/sairamtn1/blob/main/profile.png" width="180" height="180" style="border-radius:50%; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.3);" alt="Naga Sairam Turlapati">
+</div>
+
 # 👋 Hi, I'm Naga Sairam Turlapati!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sairamtn)

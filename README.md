@@ -40,12 +40,6 @@
 
 ## 💼 Experience  
 
-**🔹 AI Research Intern (Remote)** — *Jan 2025 – Present*  
-- Led a self-directed research project applying AI to medical domains.  
-- Developed OCR pipelines using **Tesseract**, **EasyOCR**, and **PaddleOCR**.  
-- Integrated **GPT-0** for real-time medical text summarization and benchmarking NLP models.  
-- Documented and published findings in a structured research format.  
-
 **🔹 Python Programming Intern — Octet Logic (Jun–Aug 2025)**  
 - Completed a hands-on internship focusing on **Python programming** and **application development**.  
 - Strengthened problem-solving, debugging, and logical reasoning through real projects.  
